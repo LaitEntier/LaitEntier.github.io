@@ -1,6 +1,5 @@
 layout: sidebar
-style: dark
-
+style: light
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
